@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Wilbert!
 
-<!--
-**WilbertRs/WilbertRs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+#include <iostream>
+using namespace std;
 
-Here are some ideas to get you started:
+int main() {
+    cout << "Welcome to my GitHub! 🚀" << endl;
+    return 0;
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Tech Enthusiast | Arduino & ESP Developer | C++ Learner ✨
+
+I'm a student at SMPN 8 Yogyakarta who loves experimenting with Arduino, ESP32, ESP8266, and IoT technology. I'm also learning C++ to improve my programming skills.
+
+🔥About Me
+🎯 Hobbies: Electronics, IoT, and microcontroller programming
+🔌 Favorite Project: SIGAP (GPS + GSM + IoT using ESP32)
+📚 Currently Learning: C++ and code optimization for microcontrollers
