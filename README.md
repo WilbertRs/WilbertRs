@@ -2,32 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=35&pause=10&color=000000&center=true&width=435&lines=Hi+There%F0%9F%91%8B;I'm+WilbertRs" />
 </h1>
 
-<h3 align="center">I'm a student at SMPN 8 Yogyakarta who loves experimenting with Arduino, ESP32, ESP8266, and IoT technology. I'm also learning C++ to improve my programming skills.</h3>
-
-<br/>
-
+<h3 align="center">I'm a student at SMAN 3 Yogyakarta who primarily enjoys experimenting with Arduino, ESP32, and ESP8266. However, I also enjoy experimenting with Linux, Docker, and Home Assistant, as well as Machine Learning and LLMs.</h3>
+<h1 align="center">
+    <img width="300" height="300" src="https://github.com/user-attachments/assets/6ee92b41-85c8-45c8-b510-86f285af9efe">
+    
 <div align="center">
-
-**✨ Tech Enthusiast | Arduino & ESP Lover | C++ Learner ✨**
-
-🎯 Hobbies: **Electronics, IoT, and microcontroller programming**
-
-📚 Currently Learning: **C++, LUA, Docker, DIY Server**
-
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,git,github,vscode,robloxstudio,lua,linux,docker" /><br>
 </div>
 
-
- <hr/>
- 
-<h2 align="center">⚒️ Tools I Use ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,docker,git,github,lua" /><br>
-</div>
-
+<!--
 <br/>
 <hr/>
-
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -35,7 +21,7 @@
 </div>
 
 <br/>
-
+-->
 <!--
 Thanks salesp07 for the README code
 -->
